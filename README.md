@@ -1,5 +1,5 @@
 # CS360-weigh2go GoalWeight app
-CS-350 Weight Tracker App Project
+CS-360 Weight Tracker App Project
 
 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
